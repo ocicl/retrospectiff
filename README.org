@@ -1,0 +1,10 @@
+* retrospectiff
+
+A library for reading and writing TIFF image files in common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/slyrus/retrospectiff   |
+| commit  | 2fbf8c6  |
+| systems | retrospectiff |
+|---------+-------------------------------------------|
+
